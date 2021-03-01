@@ -7,7 +7,7 @@ Python package for running MODFLOW 6 models of groundwater systems connected to 
 
 * See install_readme.txt
 * Dependencies: see wygw_environment.yml for dependencies.
-* How to run: see \scripts\examples for example scripts and input datasets.
+* How to run: see ...\examples for example scripts and input datasets.
 
 
 ### Who do I talk to? ###
